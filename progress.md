@@ -53,4 +53,3 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [ ] Sorting Benchmark App (Algorithms)
 - [ ] Labyrinth Solver (Graphs/Backtracking)
 - [ ] Password Generator (Intermediate)
-- [ ] API with Flask (Advanced)
