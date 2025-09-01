@@ -52,4 +52,4 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [ ] CSV Contact Manager (Files & Dicts)
 - [ ] Sorting Benchmark App (Algorithms)
 - [ ] Labyrinth Solver (Graphs/Backtracking)
-- [ ] Password Generator (Intermediate)
+- [x] Password Generator (Intermediate)
