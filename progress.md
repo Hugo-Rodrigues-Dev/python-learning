@@ -10,8 +10,8 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [x] Conditionals and loops
 
 ## 🧱 Phase 2 – Functions & Intermediate Concepts
-- [ ] Functions (basics, scope, *args, **kwargs)
-- [ ] Lambdas and recursion
+- [x] Functions (basics, scope, *args, **kwargs)
+- [x] Lambdas and recursion
 - [ ] Modules and packages
 - [ ] Exceptions (try/except/finally)
 - [ ] File handling (open, read/write, CSV/JSON)
