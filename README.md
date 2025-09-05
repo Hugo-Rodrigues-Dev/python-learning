@@ -98,5 +98,5 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/hugo-rdg/) or 
 Thanks for passing by and happy coding! 🚀🐍
 
 
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
