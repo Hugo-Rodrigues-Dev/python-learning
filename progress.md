@@ -17,7 +17,10 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [ ] File handling (open, read/write, CSV/JSON)
 
 ## 🧱 Phase 3 – Data Structures
-- [ ] Lists, Tuples, Sets, Dicts
+- [x] Lists
+- [x] Tuples
+- [x] Dicts
+- [x] Sets
 - [ ] Custom structures: Linked lists, Stack, Queue
 - [ ] Hash table, Heap, Trie
 
@@ -38,7 +41,7 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 
 ## 🧱 Phase 6 – Advanced Python
 - [ ] Decorators & Generators
-- [ ] Comprehensions (list, dict, set)
+- [-] Comprehensions (list, dict, set)
 - [ ] Functional programming (map/filter/reduce)
 - [ ] Standard libraries (os, sys, datetime, math...)
 
