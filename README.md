@@ -14,67 +14,15 @@ The goal is not only to master Python syntax, but also to understand the logic b
 
 ---
 
-## 📁 Future Folder Structure
+## 🚦 Current Status
 
-```bash
-Python-Learning/
-├── 01_basics/
-│   ├── variables.py
-│   ├── types.py
-│   ├── input_output.py
-│   └── conditionals_loops.py
-├── 02_functions/
-│   ├── functions_basics.py
-│   ├── recursion.py
-│   └── lambdas.py
-├── 03_data_structures/
-│   ├── lists.py
-│   ├── tuples.py
-│   ├── dicts.py
-│   └── sets.py
-├── 04_algorithms/
-│   ├── sorting/
-│   │   ├── bubble_sort.py
-│   │   ├── quick_sort.py
-│   │   ├── merge_sort.py
-│   │   └── ...
-│   └── searching/
-│       ├── linear_search.py
-│       ├── binary_search.py
-│       └── ...
-├── 05_oop/
-│   ├── classes.py
-│   ├── inheritance.py
-│   └── polymorphism.py
-├── 06_patterns/
-│   ├── two_pointers.py
-│   ├── sliding_window.py
-│   ├── prefix_sum.py
-│   ├── backtracking.py
-│   └── monotonic_stack.py
-├── 07_advanced_structures/
-│   ├── linked_list.py
-│   ├── stack_queue.py
-│   ├── hash_table.py
-│   ├── heap.py
-│   └── trie.py
-├── 08_graphs/
-│   ├── dfs_bfs.py
-│   ├── dijkstra.py
-│   ├── union_find.py
-│   └── topological_sort.py
-├── 09_dynamic_prog/
-│   ├── fibonacci_dp.py
-│   ├── knapsack.py
-│   ├── lis.py
-│   └── lcs.py
-├── 10_bitwise_math/
-│   ├── bit_manipulation.py
-│   └── math_algorithms.py
-├── README.md
-├── LICENSE
-└── .gitignore
-```
+- Basics: complete
+- Functions: complete (basics, args/kwargs, lambdas, recursion);
+- Data structures: lists, tuples, dicts and sets complete;
+- Algorithms: pending;
+- Next up: finish algorithms, then begin OOP
+
+See `progress.md` for the detailed checklist.
 
 ---
 
