@@ -25,7 +25,7 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [ ] Hash table, Heap, Trie
 
 ## 🧱 Phase 4 – Algorithms
-- [ ] Sorting (Bubble, Merge, Quick...)
+- [x] Sorting (Bubble, Merge, Quick...)
 - [ ] Searching (Linear, Binary)
 - [ ] Recursion & Backtracking
 - [ ] Sliding Window, Two Pointers
