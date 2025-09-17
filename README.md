@@ -17,7 +17,7 @@ The goal is not only to master Python syntax, but also to understand the logic b
 ## 🚦 Current Status
 
 - Basics: complete
-- Functions: complete (basics, args/kwargs, lambdas, recursion);
+- Functions: complete (basics, args/kwargs, lambdas, recursion, file handling, exceptions);
 - Data structures: lists, tuples, dicts and sets complete;
 - Algorithms: pending;
 - Next up: finish algorithms, then begin OOP
