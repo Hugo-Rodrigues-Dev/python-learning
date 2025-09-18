@@ -20,7 +20,7 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [x] Tuples
 - [x] Dicts
 - [x] Sets
-- [ ] Custom structures: Linked lists, Stack, Queue
+- [-] Custom structures: Linked lists, Stack, Queue
 - [ ] Hash table, Heap, Trie
 
 ## 🧱 Phase 4 – Algorithms
