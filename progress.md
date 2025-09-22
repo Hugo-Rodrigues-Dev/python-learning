@@ -21,7 +21,7 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [x] Dicts
 - [x] Sets
 - [x] Custom structures: Linked lists, Stack, Queue
-- [-] Hash table, Heap, Trie
+- [x] Hash table, Heap, Trie
 
 ## 🧱 Phase 4 – Algorithms
 - [x] Sorting (Bubble, Merge, Quick...)
