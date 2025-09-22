@@ -18,9 +18,9 @@ The goal is not only to master Python syntax, but also to understand the logic b
 
 - Basics: complete
 - Functions: complete (basics, args/kwargs, lambdas, recursion, file handling, exceptions);
-- Data structures: complete (lists, tuples, dicts and sets) and Custom structures (linked lists, stacks, queues). Other pending(Hash tables, Heaps, Tries, ...);
+- Data structures: complete (lists, tuples, dicts and sets) and Custom structures (linked lists, stacks, queues), (Hash tables, Heaps, Tries) are done;
 - Algorithms: complete (sorting, searching), but many others pending : (recursion/backtracking, sliding window, two pointers, graphs, divide & conquer, greedy, dynamic programming);
-- Next up: finish algorithms and Data Structures, then start OOP and advanced Python concepts.
+- Next up: finish algorithms, then start OOP and advanced Python concepts.
 
 See `progress.md` for the detailed checklist.
 
