@@ -27,7 +27,7 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 - [x] Sorting (Bubble, Merge, Quick...)
 - [x] Searching (Linear, Binary)
 - [ ] Recursion & Backtracking
-- [ ] Sliding Window, Two Pointers
+- [x] Sliding Window, Two Pointers
 - [ ] Graphs: DFS, BFS, Union-Find, Dijkstra
 - [ ] Divide & Conquer, Greedy
 - [ ] Dynamic Programming (Knapsack, LCS, LIS)
