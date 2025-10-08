@@ -26,7 +26,7 @@ This file tracks the progress of my journey to master Python, from fundamentals 
 ## 🧱 Phase 4 – Algorithms
 - [x] Sorting (Bubble, Merge, Quick...)
 - [x] Searching (Linear, Binary)
-- [ ] Recursion & Backtracking
+- [x] Recursion & Backtracking
 - [x] Sliding Window, Two Pointers
 - [ ] Graphs: DFS, BFS, Union-Find, Dijkstra
 - [ ] Divide & Conquer, Greedy
